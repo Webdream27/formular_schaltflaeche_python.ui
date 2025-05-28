@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Diese Datei wurde mit QT Designer erstellt und ist für die Verwendung von Python gedacht -->
 <ui version="4.0">
  <class>MeinFormular</class>
  <widget class="QMainWindow" name="MeinFormular">
