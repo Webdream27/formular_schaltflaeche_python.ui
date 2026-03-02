@@ -17,8 +17,4 @@ Die Benutzeroberfläche (`MeinFormular`) enthält:
 * **Tool:** Qt Designer
 * **Kompatibilität:** Funktioniert mit `PyQt5`, `PyQt6`, `PySide2` oder `PySide6`.
 
-## 📂 Installation & Nutzung
 
-1. **Repository klonen:**
-   ```bash
-   git clone [https://github.com/DEIN_NUTZERNAME/DEIN_PROJEKTNAME.git](https://github.com/DEIN_NUTZERNAME/DEIN_PROJEKTNAME.git)
